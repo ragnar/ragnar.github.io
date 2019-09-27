@@ -1,10 +1,10 @@
-# Vindsiden Wind Meter Privacy Policy
+# Vindsiden Wind Graph Privacy Policy
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 ## Information Collection And Use
 
-Vindsiden Wind Meter will not ask for any personal information.
+Vindsiden Wind Graph will not ask for any personal information.
 
 ## Changes To This Privacy Policy
 
